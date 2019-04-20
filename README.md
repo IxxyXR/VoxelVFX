@@ -19,8 +19,7 @@ __Volume__: The simpler example. Converts each voxel into a pixel in a texture3D
 
 __Sprite__: More efficient. The voxels are stored in a texture with rgb=xyx for position and the alpha channel storing an index into a separate pallette texture that provides the color information.
 
-The latter scene file currently scans for 
-
+The latter scene file currently scans for files in the specified directory that match the given pattern. Check out the scene itself.
 
 Credits
 -------
