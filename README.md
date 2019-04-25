@@ -1,5 +1,7 @@
 Voxel VFX
 =======================
+
+![Example](https://github.com/IxxyXR/VoxelVFX/blob/master/Screenshots/voxel_vfx.jpeg?raw=true "Example")
  
 Render MagicaVoxel .vox files with the Unity Visual Effect Graph
 
